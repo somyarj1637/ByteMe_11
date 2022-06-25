@@ -1,10 +1,11 @@
 # ByteMe_11
-<b>CraftsIndia.com</b>
+<h1><b>CraftsIndia.com</b></h1>
 
 <b>TITLES</b>
 
-<li><i>Introduction</i></l>
+<li><i>Introduction</i></li>
 <li><i>Technologies</i></li>
+<li><i>Platform</i></li>
 <li><i>Launch</i></li>
 
 <br><b>INTRODUCTION</b></br>
@@ -30,5 +31,5 @@ The website mostly shows the stock which is available near you.</i>
 ### Platform
 <li><i> VS Code </i></li>
 
-
+  
  
