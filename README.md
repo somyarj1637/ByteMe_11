@@ -20,15 +20,15 @@ The website mostly shows the stock which is available near you.</i>
 
 <b>TECHNOLOGIES</b>
 
-- React
-- Express
-- MongoDb
-- NodeJs
+<li><i>React</i></li>
+<li><i>Express</i></li>
+<li><i>MongoDb</i></li>
+<li><i>NodeJs</i></li>
+ 
+
 
 ### Platform
- - VS Code
+<li><i> VS Code </i></li>
 
 
-
-
-
+ 
