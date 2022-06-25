@@ -20,6 +20,15 @@ The website mostly shows the stock which is available near you.</i>
 
 <b>TECHNOLOGIES</b>
 
+- React
+- Express
+- MongoDb
+- NodeJs
+
+### Platform
+ - VS Code
+
+
 
 
 
